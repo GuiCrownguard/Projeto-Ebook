@@ -6,3 +6,10 @@ Espero que seja do agrado de todos, o arquivo disponibilizado "Ebook - Desvendan
 Além disso disponibilizei em outro arquivo os slides que montei no PowerPoint, além dos prompts  utilizados para desenvolvimento dos textos.
 
 Grato pela atenção!!!!!!!
+
+## 💻 > Prompts Utilizados -
+|    Ações      |      Prompt's |
+| :-----------: | :-----------: |
+| Título      | Crie por gentileza, um título, com o tema de programação, subtema Mainframe e suas técnologias (software), que tenha como objetivo atingir um público mais jovem e que consiga com poucas palavras mostrar a magia que cerca os mainframe.      |
+| Conteúdo    | Faça um texto para ebook, com foco em mainframe e suas técnologias, listando as principais linguagens de programção utilizada, inclusive a linguagem de controle de jobs (JCL) |
+
