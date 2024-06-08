@@ -15,11 +15,13 @@ Grato pela atenção!!!😊❤
 | Conteúdo    | Faça um texto para ebook, com foco em mainframe e suas técnologias, listando as principais linguagens de programção utilizada, inclusive a linguagem de controle de jobs (JCL) |
 
 ## 🖱 > Links Projeto - 
-📘[E-book.pdf](https://github.com/GuiCrownguard/Projeto-Ebook/blob/main/Ebook%20-%20Desvendando%20Segredos%20do%20Mainframe.pdf)  
-🤖[Auxiliar do Projeto - GPT](https://chatgpt.com/)
+📘 [E-book.pdf](https://github.com/GuiCrownguard/Projeto-Ebook/blob/main/Ebook%20-%20Desvendando%20Segredos%20do%20Mainframe.pdf)  
+🤖 [Auxiliar do Projeto - GPT](https://chatgpt.com/)
 
 
 # 🤩 > Sobre - 
 
 Projeto e Repositório desenvolvidos por,  
-![Guilherme Mancusi Simões!](C:/Users/Gui/Downloads/Eu.png "Guilherme Mancusi Simões") 
+Guilherme Mancusi Simões  
+👨‍💻 [Linkedin](https://www.linkedin.com/in/guilherme-mancusi-sim%C3%B5es-882873215/)
+😸 [Github](https://github.com/GuiCrownguard)
