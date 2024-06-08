@@ -21,5 +21,5 @@ Grato pela atenção!!!😊❤
 
 # 🤩 > Sobre - 
 
-Projeto e Repositório desenvolvidos por,
-![Guilherme Mancusi Simões!](/Users/Gui/Downloads/Eu.png "Guilherme Mancusi Simões") 
+Projeto e Repositório desenvolvidos por,  
+![Guilherme Mancusi Simões!](C:/Users/Gui/Downloads/Eu.png "Guilherme Mancusi Simões") 
