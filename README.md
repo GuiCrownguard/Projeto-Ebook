@@ -4,7 +4,7 @@ Este repositório foi criado com a intenção de disponibilizar aos usuários in
 
 Espero que seja do agrado de todos, o arquivo disponibilizado "Ebook - Desvendando Segredos do Mainframe.pdf".
 
-Além disso disponibilizei em outro arquivo os slides que montei no PowerPoint, além dos prompts  utilizados para desenvolvimento dos textos.
+Além disso disponibilizei em outro arquivo os slides que montei no PowerPoint, além dos prompts utilizados para desenvolvimento dos textos abaixo.
 
 Grato pela atenção!!!😊❤
 
