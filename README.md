@@ -5,7 +5,7 @@ Espero que seja do agrado de todos, o arquivo disponibilizado "Ebook - Desvendan
 
 Além disso disponibilizei em outro arquivo os slides que montei no PowerPoint, além dos prompts  utilizados para desenvolvimento dos textos.
 
-Grato pela atenção!!!!!!!
+Grato pela atenção!!! 😊❤
 
 ## 💻 > Prompts Utilizados -
 |    Ações      |      Prompt's |
