@@ -17,3 +17,9 @@ Grato pela atenção!!!😊❤
 ## 🖱 > Links Projeto - 
 📘[E-book.pdf](https://github.com/GuiCrownguard/Projeto-Ebook/blob/main/Ebook%20-%20Desvendando%20Segredos%20do%20Mainframe.pdf)  
 🤖[Auxiliar do Projeto - GPT](https://chatgpt.com/)
+
+
+# 🤩 > Sobre - 
+
+Projeto e Repositório desenvolvidos por,
+![Guilherme Mancusi Simões!](/Users/Gui/Downloads/Eu.png "Guilherme Mancusi Simões") 
